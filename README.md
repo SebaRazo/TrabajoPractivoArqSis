@@ -3,8 +3,8 @@
 ## Integrantes del equipo:
 - Alfonso Garay 
 - Carvi Pedro 
-- -Brandelero Ezequiel 
-- -Razovich Sebastián
+- Brandelero Ezequiel 
+- Razovich Sebastián
 
 
 ## Descripción
